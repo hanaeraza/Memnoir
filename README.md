@@ -1,4 +1,5 @@
 # Memnoir
+![Memnoir Main Menu](https://github.com/hanaeraza/Memnoir/assets/104112569/fe13967f-225f-4a77-ab90-07ce821e3a94)
 
 ## Description
 Memnoir is a 2D mobile game where you play as a ghost who has to uncover why they died so you can fight the Grim Reaper and come back to life. As you explore your house, you will find clues that will jot your memory and provide you with special abilities or nerfs. Once you have enough clues, you can fight the Grim Reaper using your new abilities. 

@@ -32,7 +32,7 @@ https://lucky-loops.itch.io/ - UI Buttons
 https://rad-potato.itch.io/pixel-perfect-16x16-halloween-sprite-set - Smite Skull
 https://darkpixel-kronovi.itch.io - Grim Reaper
 https://bdragon1727.itch.io/free-effect-and-bullet-16x16 - Effects
-(Backgrounds were made by me!)
+Backgrounds - Created by me!
 
 ### Code tutorials:
 https://www.youtube.com/watch?v=N1BKXCxM_hA&t=0s

@@ -11,30 +11,30 @@ Dead Body: Grim Reaper health increased or decreased (450/150)
 
 ## Controls 
 ### Keyboard:
-A = Left
-D = Right
-Space = Jump
-F = Interact
-Enter = Submit
+A = Left  
+D = Right  
+Space = Jump   
+F = Interact  
+Enter = Submit  
 
 ### Mobile: 
-Left button = Left
-Right button = Right
-Magnifying glass button = Interact
-Up button = Jump
-Tap = Submit/continue
+Left button = Left  
+Right button = Right  
+Magnifying glass button = Interact  
+Up button = Jump  
+Tap = Submit/continue  
 
 ## References/Credits
 ### Art:
-https://andelrodis.itch.io/ - Dialogue Panel
-https://justkato.me/ - Font
-https://lucky-loops.itch.io/ - UI Buttons
-https://rad-potato.itch.io/pixel-perfect-16x16-halloween-sprite-set - Smite Skull
-https://darkpixel-kronovi.itch.io - Grim Reaper
-https://bdragon1727.itch.io/free-effect-and-bullet-16x16 - Effects
-Backgrounds - Created by me!
+https://andelrodis.itch.io/ - Dialogue Panel  
+https://justkato.me/ - Font  
+https://lucky-loops.itch.io/ - UI Buttons  
+https://rad-potato.itch.io/pixel-perfect-16x16-halloween-sprite-set - Smite Skull  
+https://darkpixel-kronovi.itch.io - Grim Reaper  
+https://bdragon1727.itch.io/free-effect-and-bullet-16x16 - Effects  
+Backgrounds - Created by me!  
 
 ### Code tutorials:
-https://www.youtube.com/watch?v=N1BKXCxM_hA&t=0s
-https://www.youtube.com/watch?v=AD4JIXQDw0s
-https://www.youtube.com/watch?v=K1xZ-rycYY8
+https://www.youtube.com/watch?v=N1BKXCxM_hA&t=0s  
+https://www.youtube.com/watch?v=AD4JIXQDw0s  
+https://www.youtube.com/watch?v=K1xZ-rycYY8  

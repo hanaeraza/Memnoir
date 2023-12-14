@@ -24,8 +24,8 @@ Magnifying glass button = Interact
 Up button = Jump
 Tap = Submit/continue
 
-== References/Credits ==
-Art:
+## References/Credits
+### Art:
 https://andelrodis.itch.io/ - Dialogue Panel
 https://justkato.me/ - Font
 https://lucky-loops.itch.io/ - UI Buttons
@@ -34,7 +34,7 @@ https://darkpixel-kronovi.itch.io - Grim Reaper
 https://bdragon1727.itch.io/free-effect-and-bullet-16x16 - Effects
 (Backgrounds were made by me!)
 
-Code tutorials:
+### Code tutorials:
 https://www.youtube.com/watch?v=N1BKXCxM_hA&t=0s
 https://www.youtube.com/watch?v=AD4JIXQDw0s
 https://www.youtube.com/watch?v=K1xZ-rycYY8
